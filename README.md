@@ -78,6 +78,6 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 
 ## NPM INSTALL
-npm install
-npm install bootstrap
-npm install @popperjs/core
+npm install <br />
+npm install bootstrap <br />
+npm install @popperjs/core <br />
